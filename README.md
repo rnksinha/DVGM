@@ -1,4 +1,4 @@
-# Damn Vulnerable Grade Management (DVGM) - An Intentionally Vulnerable Rails Application
+# Damn Vulnerable Grade Management (DVGM) - An Intentionally Vulnerable Rails Application, for testing
 
 Damn Vulnerable Grade Management is an **intentionally vulnerable** grade
 management application that can be used for teaching *security testing* and
